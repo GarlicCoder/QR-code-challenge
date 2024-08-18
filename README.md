@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./images/screenshot.png)
-
 The task was to build a web responsive page that features a QR code and some text. It includes using HTML and CSS. 
+
 
 ### Links
 
@@ -38,21 +38,6 @@ The task was to build a web responsive page that features a QR code and some tex
 ### What I learned
 
 This was a good challenge with testing my CSS skills. I feel pretty confident in HTML and most of CSS. Although, I always have trouble aligning and positioning things with CSS. It was also good practice creating different div containers! Although I created a general .container class. Not sure if it was necessary or not.
-
-```css
-.main-container {
-    background-color:  hsl(0, 0%, 100%);
-    border-radius: 30px;
-    height: 100%;
-    width: 350px;
-    filter: drop-shadow(0px 5px 9px #00000052);
-    max-width: fit-content;
-    margin: 60px auto 10px auto;
-}
-```
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
