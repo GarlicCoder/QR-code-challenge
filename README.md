@@ -27,7 +27,7 @@ The task was to build a web responsive page that features a QR code and some tex
 ### Links
 
 - Solution URL: [https://github.com/GarlicCoder/QR-code-challenge](https://github.com/GarlicCoder/QR-code-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://garliccoder.github.io/QR-code-challenge/)
 
 ## My process
 
